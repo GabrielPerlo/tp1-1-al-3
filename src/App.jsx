@@ -1,10 +1,8 @@
+import Tp1 from "./components/Tp1";
+
 function App() {
   return (
-    <div>
-      <h1>
-        Titulo
-      </h1>
-    </div>
+    <Tp1></Tp1>
   );
 }
 
